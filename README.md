@@ -22,7 +22,7 @@ Mobile App Development – A collection of mobile apps designed using React Nati
 - 📫 How to reach me : Let's Connect!
 GitHub: https://github.com/SAMEEHAFARAZEEN23
 LinkedIn: https://www.linkedin.com/in/sameeha-farazeen-597520313
-Portfolio: yet to be updated.
+Portfolio:https://sameehafarazeen23.github.io/PORTFOLIO/
 Email: safshaikabbas@gmail.com.
 
 - 🌱 Feel free to explore my repositories, open issues, or contribute to my projects.
